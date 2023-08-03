@@ -1,4 +1,4 @@
-# Ionic Angular Example
+# Ionic Angular Project
 
 This directory is a brief example of an [Ionic Angular](https://ionicframework.com/docs/angular/overview) app that can be deployed to Vercel with zero configuration
 
@@ -10,7 +10,7 @@ Deploy your own Ionic Angular project with Vercel.
 
 _Live Example: https://ionic-angular-template.vercel.app_
 
-### How We Created This Example
+### How We Created This Project
 
 To get started with Ionic Angular deployed with Vercel, you can use the [Ionic CLI](https://ionicframework.com/docs/cli) to initialize the project:
 
